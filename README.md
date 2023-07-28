@@ -20,9 +20,7 @@ You can run the test_**.m file to understand how to use the code. After testing,
 'test_std_noise.m' is the code to assess the impact of Gaussian noise on the algorithm.
 'test_std_poisson.m' is the code to assess the impact of Poisson noise on the algorithm.
 ```
-
-#### Result
-
+*Note* the code uploaded in this repository is the final version from the [paper](https://iopscience.iop.org/article/10.3847/0004-637X/827/2/137) and is considered stable (no longer maintained).
 
 
 #### Citation
